@@ -16,7 +16,7 @@ A continuación, se detallan los pasos para realizar una actividad de aprendizaj
 ### Paso 3: Acceder al Contenido
 
 1. Abre MySQL Workbench y conecta a tu servidor local.
-2. Abre el archivo SQL que proporcionaste en tu repositorio (por ejemplo, `actividad.sql`).
+2. Abre el archivo SQL que proporcionaste en tu repositorio (`do_the_activity_here.sql`).
 
 ---
 
